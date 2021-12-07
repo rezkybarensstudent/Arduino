@@ -11,3 +11,4 @@ Some of the tools/materials needed to work on a gas leak detector project, such 
 - Power adapter
 - Bell (Alarm)
 - LCD
+- Resistor
